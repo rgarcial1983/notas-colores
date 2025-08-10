@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notas-colores/static/css/main.de49ad5d.css",
+    "main.js": "/notas-colores/static/js/main.80f04f20.js",
+    "static/js/453.22f0c73e.chunk.js": "/notas-colores/static/js/453.22f0c73e.chunk.js",
+    "index.html": "/notas-colores/index.html",
+    "main.de49ad5d.css.map": "/notas-colores/static/css/main.de49ad5d.css.map",
+    "main.80f04f20.js.map": "/notas-colores/static/js/main.80f04f20.js.map",
+    "453.22f0c73e.chunk.js.map": "/notas-colores/static/js/453.22f0c73e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de49ad5d.css",
+    "static/js/main.80f04f20.js"
+  ]
+}
